@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title></title>
+</head>
+<body>
+     <p id="demo"></p>
+
+  <script>
+    const points = new Array(10,20,30,40,50);
+   const points = [10,20,30,40,50];
+      document.getElementById("demo").innerHTML = points[0];
+  </script>
+</body>
+</html>
